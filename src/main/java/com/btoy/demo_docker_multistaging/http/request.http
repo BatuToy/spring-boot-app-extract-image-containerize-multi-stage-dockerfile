@@ -1,0 +1,5 @@
+@port = 8081
+
+### GET request
+GET http://localhost:{{port}}/api/v1/demo
+Content-Type: application/json
